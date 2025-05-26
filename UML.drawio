@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
   <diagram name="Page-1" id="98fTGKxyj-8AHJU92eOd">
-    <mxGraphModel>
+    <mxGraphModel dx="1241" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tfgkb5m6mbBWtJtG2ORI-1" value="Diagram Heading" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-1000" width="520" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfgkb5m6mbBWtJtG2ORI-2" value="&lt;div&gt;Produtor Rural&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfgkb5m6mbBWtJtG2ORI-3" value="&lt;div&gt;Comprador Industrial&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-740" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfgkb5m6mbBWtJtG2ORI-4" value="&lt;div&gt;Transportadora&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-530" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfgkb5m6mbBWtJtG2ORI-5" value="&lt;div&gt;Sistema de IA de Preço&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfgkb5m6mbBWtJtG2ORI-8" value="&lt;div&gt;Auditor Fiscal&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfgkb5m6mbBWtJtG2ORI-9" value="&lt;div&gt;Administrador&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-630" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
